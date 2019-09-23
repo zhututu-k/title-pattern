@@ -1,0 +1,24 @@
+group 'netflix'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile 'org.apache.spark:spark-sql_2.12:2.4.3'
+    compile 'org.apache.spark:spark-core_2.12:2.4.3'
+    compile 'org.slf4j:slf4j-api:1.7.12'
+}
+
+task testExample(type: JavaExec) {
+    classpath sourceSets.main.runtimeClasspath
+    main = "util.TestExample"
+}
+

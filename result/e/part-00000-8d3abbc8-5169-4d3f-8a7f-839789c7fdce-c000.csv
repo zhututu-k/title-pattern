@@ -1,0 +1,2 @@
+user_id,navigation_page,url,session_id,date,hour,timestamp,prev_page_name,step_num,page_type,page_id,total_steps,prev_page_type
+4001,OurPlanetTitle,https://www.netflix.com/title/80049832,9005,20181125,11,1543145017,"",1,TITLE,80049832,1,NULL

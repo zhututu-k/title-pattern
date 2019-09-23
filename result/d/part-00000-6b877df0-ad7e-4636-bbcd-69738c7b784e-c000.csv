@@ -1,0 +1,2 @@
+user_id,navigation_page,url,session_id,date,hour,timestamp,prev_page_name,step_num,page_type,page_id,total_steps,prev_page_type
+3003,LogIn,https://www.netflix.com/login,8009,20181125,11,1543144539,OurPlanetTitle,2,LOGIN,L,2,TITLE

@@ -1,0 +1,6 @@
+user_id,navigation_page,url,session_id,date,hour,timestamp,prev_page_name,step_num,page_type,page_id,total_steps,prev_page_type
+1001,OurPlanetTitle,https://www.netflix.com/title/80049832,6001,20181125,11,1543144449,"",1,TITLE,80049832,4,NULL
+2002,OurPlanetTitle,https://www.netflix.com/title/80049832,7004,20181125,11,1543145206,OriginalsGenre,5,TITLE,80049832,7,ORIGINALS
+2002,OurPlanetTitle,https://www.netflix.com/title/80049832,7004,20181125,11,1543145409,HomePage,7,TITLE,80049832,7,HOME
+3003,OurPlanetTitle,https://www.netflix.com/title/80049832,8009,20181125,11,1543144439,"",1,TITLE,80049832,2,NULL
+4001,OurPlanetTitle,https://www.netflix.com/title/80049832,9005,20181125,11,1543145017,"",1,TITLE,80049832,1,NULL
